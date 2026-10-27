@@ -14,7 +14,7 @@ You can view the clean redraw, the redraw over the original scan, or the scan on
 
 The wires were traced from a 600 dpi scan of the factory drawing. The terminal numbers on the junction blocks match the breaker numbers on the switch panel, so each circuit is followed through the looms by its number. The drawing doesn't mark polarity, so positive and negative are worked out from the − terminals, the earth symbols and the battery markings.
 
-On this drawing the main switch isolates the battery **negatives**. The heater and the radios bypass it through their own fuses and the permanent negative ("Dauer-Minus").
+On this drawing the main switch isolates the battery **negatives** (confirmed on the boat). The heater and the radios bypass it through their own fuses and the permanent negative ("Dauer-Minus").
 
 ## Caveats
 
